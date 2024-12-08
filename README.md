@@ -31,7 +31,7 @@ The main class `Calculator.java` includes:
   - Executes operations based on button clicks.
 
 # Preview
-<img width="422" alt="Screenshot 2024-12-08 at 1 22 48 PM" src="https://github.com/user-attachments/assets/6e4d5c04-080b-4eb1-8c67-6ce8a3abc8ff">
+<img alt="Calculator" src="https://github.com/user-attachments/assets/8aa3a76f-2f38-4fb5-9d1a-8c2b232c569a">
 
 # How to Run
 
